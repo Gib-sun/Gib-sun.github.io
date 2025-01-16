@@ -16,7 +16,7 @@ body {
   font-size: 18px;
   line-height: 1.7;
   color: #333333;
-  background: #f5e8d1;
+  background: #fffaf0;
 }
 
 #page {
@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #da8431;
+  color: #ff4a02;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-nav {
-  background: #f5e8d1;
+  background: #fffaf0;
 }
 .fh5co-nav .top-menu {
   padding: 28px 0;
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Inconsolata", Arial, sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #da8431;
+  color: #ff4a02;
 }
 .fh5co-nav a {
   padding: 5px 10px;
