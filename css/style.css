@@ -666,7 +666,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #DD356E;
+  color: #ff4a02;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -903,13 +903,13 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-team {
   position: relative;
-  background: #fffaf0;
+  background: #fffdf9;
   padding: 30px;
   border-radius: 5px;
   margin-bottom: 30px;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
   -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
-  box-shadow: 0px 2px 5px 0px #11b643;
+  box-shadow: 0px 2px 5px 0px #0000002b;
 }
 @media screen and (max-width: 768px) {
   .fh5co-team {
