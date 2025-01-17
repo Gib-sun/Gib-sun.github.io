@@ -1,8 +1,9 @@
 
 TITLE: 
-Air - 100% Fully Responsive Free HTML5 Bootstrap Template
+Clark Glymph's Personal Page 
+(starting with Air. template)
 
-AUTHOR:
+AUTHOR: Clark Gibson Glymph
 DESIGNED & DEVELOPED by FreeHTML5.co
 
 Website: http://freehtml5.co/
