@@ -142,7 +142,7 @@ a {
 	color: $brand-primary;
 	@include transition(.5s);
 	&:hover, &:active, &:focus {
-		color: $brand-primary;
+		color: #9b0527;
 		outline: none;
 		text-decoration: none;
 	}
@@ -1340,7 +1340,7 @@ input[type="text"] {
 	color: $brand-white;
 	border: 2px solid $brand-primary;
 	&:hover, &:focus, &:active {
-		background: lighten($brand-primary, 5%)!important;
+		background: #9b0527;
 		border-color: lighten($brand-primary, 5%)!important;
 	}
 	&.btn-outline {
