@@ -1315,12 +1315,12 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #DD356E;
+  background: #ff4a02;
   color: #fff;
-  border: 2px solid #DD356E;
+  border: 2px solid #ff4a02;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #e14b7e !important;
+  background: #9b0527;
   border-color: #e14b7e !important;
 }
 .btn-primary.btn-outline {
