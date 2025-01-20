@@ -1336,19 +1336,19 @@ input[type="text"] {
 	}
 }
 .btn-primary {
-	background: $brand-primary;
+	background: #ff4a02;
 	color: $brand-white;
 	border: 2px solid $brand-primary;
 	&:hover, &:focus, &:active {
 		background: #9b0527;
-		border-color: lighten($brand-primary, 5%)!important;
+		border-color: lighten(#ff4a02, 5%)!important;
 	}
 	&.btn-outline {
 		background: transparent;
-		color: $brand-primary;
+		color: #ff4a02;
 		border: 2px solid $brand-primary;
 		&:hover, &:focus, &:active {
-			background: $brand-primary;
+			background:  #9b0527;
 			color: $brand-white;
 		}
 	}
